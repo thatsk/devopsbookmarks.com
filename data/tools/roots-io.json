@@ -1,0 +1,17 @@
+[
+  {
+    "slug": "Roots",
+    "name": "Roots.io Stack",
+    "description": "open source tools for modern automated wordpress development",
+    "tags": [
+      "linux",
+      "windows",
+      "open-source",
+      "provisioning",
+      "php",
+      "wordpress",
+      "config-mgmt"
+      ],
+    "url": "https://roots.io/"
+  }
+]
